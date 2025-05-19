@@ -1,0 +1,120 @@
+<mxfile host="Electron" modified="2025-05-18T14:51:15.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="PGOUScPV4ZEVt1oXDo1O" version="24.2.5" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wzIamH0m0tMZ28txF08k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-2" target="wzIamH0m0tMZ28txF08k-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="230" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-2" target="wzIamH0m0tMZ28txF08k-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-2" value="Sequence: Патрулирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-3" target="wzIamH0m0tMZ28txF08k-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-3" value="Root" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-7" value="Action: &lt;br&gt;Идти к точке" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-9" target="wzIamH0m0tMZ28txF08k-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-9" value="Decorator: Остановиться" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-11" target="wzIamH0m0tMZ28txF08k-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-11" target="wzIamH0m0tMZ28txF08k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-11" value="Selector: Ждать противника" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-13" target="wzIamH0m0tMZ28txF08k-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="550" />
+              <mxPoint x="520" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-13" target="wzIamH0m0tMZ28txF08k-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="550" />
+              <mxPoint x="260" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="550" as="sourcePoint" />
+            <mxPoint x="120" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-13" value="Selection: Есть противник" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-15" value="Action: Ждать 5 минут" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-17" target="wzIamH0m0tMZ28txF08k-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-17" value="Condition: Враг убит?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-19" target="wzIamH0m0tMZ28txF08k-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-19" value="Condition: Произведено 10 выстрелов?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-23" target="wzIamH0m0tMZ28txF08k-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-23" value="Action: Выстрел" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-25" value="Action: Ждать 1 секунду" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-27" target="wzIamH0m0tMZ28txF08k-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-27" value="Decorator: Если произведено 5 выстрелов" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-28" value="Action: Перезарядка" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-32" value="Action: :Ждать 15 минут" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-35" target="wzIamH0m0tMZ28txF08k-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzIamH0m0tMZ28txF08k-35" target="wzIamH0m0tMZ28txF08k-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzIamH0m0tMZ28txF08k-35" value="Sequence: Атака" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
