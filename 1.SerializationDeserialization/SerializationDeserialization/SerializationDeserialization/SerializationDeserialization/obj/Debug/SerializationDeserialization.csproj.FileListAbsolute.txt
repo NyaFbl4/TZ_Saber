@@ -1,0 +1,7 @@
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe.config
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\bin\Debug\SerializationDeserialization.exe
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\bin\Debug\SerializationDeserialization.pdb
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\obj\Debug\SerializationDeserialization.csproj.AssemblyReference.cache
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\obj\Debug\SerializationDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\obj\Debug\SerializationDeserialization.exe
+C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization\SerializationDeserialization\obj\Debug\SerializationDeserialization.pdb
