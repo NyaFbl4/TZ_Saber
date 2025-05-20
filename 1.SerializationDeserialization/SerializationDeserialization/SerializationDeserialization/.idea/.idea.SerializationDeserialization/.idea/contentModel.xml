@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\!\SerializationDeserialization" t="IncludeFlat">
+    <e p="C:\Users\Public\Repos\!Testovoe\TZ_Saber\1.SerializationDeserialization\SerializationDeserialization\SerializationDeserialization" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="SerializationDeserialization" t="IncludeRecursive">
         <e p="App.config" t="Include" />
@@ -16,6 +16,6 @@
       <e p="SerializationDeserialization.sln" t="IncludeFlat" />
     </e>
     <e p="C:\Users\Никита\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Никита\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SerializationDeserialization.1338370088.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Никита\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_SerializationDeserialization.1090874214.00" t="ExcludeRecursive" />
   </component>
 </project>

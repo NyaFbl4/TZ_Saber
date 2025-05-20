@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SerializationDeserialization
 {
@@ -136,29 +133,26 @@ namespace SerializationDeserialization
     {
         static void Main(string[] args)
         {
-            // Создаем тестовый список
             ListRand list = new ListRand();
-            list.AddNode("First");
-            list.AddNode("Second");
-            list.AddNode("Third");
-            list.AddNode("Fourth");
-
-            // Устанавливаем произвольные ссылки
-            list.Head.Rand = list.Tail;            // First -> Fourth
-            list.Head.Next.Rand = list.Head;       // Second -> First
-            list.Tail.Prev.Rand = list.Tail;       // Third -> Fourth
+            list.AddNode("Perviy");
+            list.AddNode("Vtoroy");
+            list.AddNode("Tretiy");
+            list.AddNode("4etvirtiy");
+            
+            list.Head.Rand = list.Tail;       
+            list.Head.Next.Rand = list.Head; 
+            list.Tail.Prev.Rand = list.Tail; 
 
             Console.WriteLine("Original list:");
             list.PrintList();
-
-            // Сериализуем список в файл
+            
             string filePath = "list.dat";
             var serializeFile = new FileStream(filePath, FileMode.Create);
             list.Serialize(serializeFile);
             serializeFile.Close();
             Console.WriteLine("List serialized to file.");
 
-            // Десериализуем список из файла
+
             ListRand deserializedList = new ListRand();
             var deserializeFile = new FileStream(filePath, FileMode.Open);
             deserializedList.Deserialize(deserializeFile);
