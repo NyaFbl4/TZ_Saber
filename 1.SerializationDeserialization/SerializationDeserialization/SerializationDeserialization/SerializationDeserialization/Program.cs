@@ -21,7 +21,7 @@ namespace SerializationDeserialization
 
         public void Serialize(FileStream file)
         {
-            BinaryWriter writer = new BinaryWriter(file);
+            var writer = new BinaryWriter(file);
             writer.Write(Count);
             
             if (Count == 0)
